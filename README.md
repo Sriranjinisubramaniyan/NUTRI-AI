@@ -12,4 +12,5 @@ npm run dev
 - shadcn-ui
 - Tailwind CSS
 
+![image alt](https://github.com/user-attachments/assets/f8f5267d-997e-4a5c-aa64-04a3c9db69ae)
 
